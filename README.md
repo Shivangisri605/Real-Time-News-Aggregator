@@ -1,1 +1,1 @@
-# Real-Time-News-Aggregator
+This project is a Full-Stack News Aggregator built on Node.js and Express.js. It integrates with the NewsAPI using Axios to fetch real-time data. The frontend is rendered dynamically using EJS (Embedded JavaScript) templating and styled with Tailwind CSS, making it fully responsive. Key functionalities include displaying top headlines, keyword search, filtering by specific dates, and sorting articles by publication date.
